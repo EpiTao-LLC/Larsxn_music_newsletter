@@ -55,6 +55,6 @@ body {
   padding-bottom: 10px;
   display: -ms-flexbox;
   display: flex;
-  -ms-flex-align: top;
+  -ms-flex-align: center;
   align-items: center;
 }

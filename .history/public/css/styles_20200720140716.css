@@ -51,10 +51,5 @@ body {
 .display-4 {
   font-family: "Montserrat";
   color:  #1e2022;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-align: top;
-  align-items: center;
+  /* background-color: #C9D6DF; */
 }
